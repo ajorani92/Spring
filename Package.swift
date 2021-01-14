@@ -16,7 +16,7 @@ let package = Package(
     dependencies: [],
     targets: [
         .target(
-            name: "SpringApp",
+            name: "Spring",
             dependencies: []),
         .testTarget(
             name: "SpringTests",
